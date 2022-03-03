@@ -1,0 +1,7 @@
+﻿  TestSourceAndListenerTransformations.cpp
+C:\Users\grend\Documents\Projects\APlause-MR\Unity\TestSourceAndListenerTransformations\TestSourceAndListenerTransformations\TestSourceAndListenerTransformations.cpp(51,25): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\grend\Documents\Projects\APlause-MR\Unity\TestSourceAndListenerTransformations\TestSourceAndListenerTransformations\TestSourceAndListenerTransformations.cpp(52,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\grend\Documents\Projects\APlause-MR\Unity\TestSourceAndListenerTransformations\TestSourceAndListenerTransformations\TestSourceAndListenerTransformations.cpp(54,80): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\grend\Documents\Projects\APlause-MR\Unity\TestSourceAndListenerTransformations\TestSourceAndListenerTransformations\TestSourceAndListenerTransformations.cpp(70,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\grend\Documents\Projects\APlause-MR\Unity\TestSourceAndListenerTransformations\TestSourceAndListenerTransformations\TestSourceAndListenerTransformations.cpp(83,52): warning C4305: 'argument': truncation from 'double' to 'const float'
+  TestSourceAndListenerTransformations.vcxproj -> C:\Users\grend\Documents\Projects\APlause-MR\Unity\TestSourceAndListenerTransformations\TestSourceAndListenerTransformations\Debug\TestSourceAndListenerTransformations.exe
